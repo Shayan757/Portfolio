@@ -2,8 +2,9 @@ import React from "react";
 import styled from "styled-components";
 import { Bio } from "../../data/constants";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import { FaGithub } from 'react-icons/fa';
-import { SiGmail } from 'react-icons/si';
+import { FaFacebookSquare } from "react-icons/fa";
+// import { FaInstagram } from "react-icons/fa";
+
 
 const FooterContainer = styled.div`
   width: 100%;
@@ -84,17 +85,23 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Anshita Sharma</Logo>
+        <Logo>Shayan Ashraf</Logo>
         <div className="flex flex-row gap-1">
           <SocialMediaIcon href={Bio.linkedin} target="display">
             <LinkedInIcon />
           </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.linkedin} target="display">
-          <FaGithub/>
+          <SocialMediaIcon href={Bio.facebook} target="display">
+          <FaFacebookSquare />
           </SocialMediaIcon>
-    <SocialMediaIcon href={`mailto:${Bio.gmail}`}> 
-  <SiGmail />
-</SocialMediaIcon>
+    {/* <SocialMediaIcon href={Bio.instagram} target="display"> 
+    <FaInstagram />
+</SocialMediaIcon> */}
+{/* 
+<SocialMediaIcon href={Bio.instagram} target="_blank" rel="noopener noreferrer">
+  <FaInstagram />
+</SocialMediaIcon> */}
+
+
       
           </div>
         <Nav>
@@ -106,7 +113,7 @@ const Footer = () => {
         </Nav>
       
       
-        <Copyright>&copy; 2024 Anshita Sharma. All rights reserved.</Copyright>
+        <Copyright>&copy; 2024 Shayan Ashraf. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
