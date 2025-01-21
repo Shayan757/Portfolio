@@ -20,7 +20,7 @@ export const Bio = {
   facebook: "https://www.facebook.com/itx.shayan.33",
   // instagram: "https://www.instagram.com/shayanashraf15",
   resume:
-    "https://drive.google.com/file/d/1mLeo9uB4Osq4HN1u4PtoO7UUnT08oHWy/view?usp=drive_link",
+    "https://drive.google.com/file/d/1PF_4m8b5Zr2n2aTa0CXPK6ncs_hilOVQ/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/shayanashraf2",
 
 };
@@ -89,6 +89,12 @@ export const skills = [
         name: "MongoDB",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+      },
+
+      {
+        name: "MySQL",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeY9JL2hQz-EKoPHG_HksoKlY9Eg9Orf9bCg&s",
       },
       
     ],
