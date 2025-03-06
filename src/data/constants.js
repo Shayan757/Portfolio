@@ -20,7 +20,7 @@ export const Bio = {
   facebook: "https://www.facebook.com/itx.shayan.33",
   // instagram: "https://www.instagram.com/shayanashraf15",
   resume:
-    "https://drive.google.com/file/d/1PF_4m8b5Zr2n2aTa0CXPK6ncs_hilOVQ/view?usp=drive_link",
+    "https://drive.google.com/file/d/1zbpiDnXlYBJ6H91nBmIxRKfhw38_Nq_N/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/shayanashraf2",
 
 };
@@ -198,7 +198,7 @@ export const education = [
     id: 0,
     img: "https://media.licdn.com/dms/image/v2/D4D0BAQE4u0dT2bemIg/company-logo_200_200/company-logo_200_200/0/1663664045761/virtual_university_of_pakistan_logo?e=1744243200&v=beta&t=TO55qSnSrrZqiF6oB85GROetyVLh20mvI7swSBBgnKs",
     school: "Virtual University of Pakistan",
-    date: "2021 - Present",
+    date: "2021 - 2025",
     grade: "B",
     degree: "Bachelor's in Computer Science",
   },
