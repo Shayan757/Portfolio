@@ -20,7 +20,7 @@ export const Bio = {
   facebook: "https://www.facebook.com/itx.shayan.33",
   // instagram: "https://www.instagram.com/shayanashraf15",
   resume:
-    "https://drive.google.com/file/d/1zbpiDnXlYBJ6H91nBmIxRKfhw38_Nq_N/view?usp=drive_link",
+    "https://drive.google.com/file/d/15EkBxpZ1rAUgdjSYGKThMCz-B3161nhT/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/shayanashraf2",
 
 };
@@ -37,7 +37,7 @@ export const skills = [
       {
         name: "Next JS",
         image:
-          "https://media.licdn.com/dms/image/v2/D4D12AQGKEapRbPK2aA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1696923705582?e=1741824000&v=beta&t=JyFPvQStDIAaKGPWbOMp2bincXPumDQeB1csUWIZkz4",
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAO0AAADVCAMAAACMuod9AAAAeFBMVEUAAAD///+Dg4PY2NgvLy9RUVErKyuIiIj8/PyysrLh4eGOjo5ra2s3Nzf5+flFRUVlZWVycnKmpqadnZ3p6ekUFBR6enoZGRnLy8s+Pj4sLCzx8fEmJiZMTEzPz88ICAjExMSwsLBcXFy7u7ugoKCWlpYeHh5YWFgRguI2AAAEjElEQVR4nO3ZaUPiOhiG4VARFKSyL4Isg47//x+eLkla2qwcp3y5ry8zlBDzdHmbpkIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgdwzGw9LA2Ww1TDw2suU0WeeStbmjWWn9XH7c+Lr1jCvSc096cjbr93wmzQ6/Tf3M1be70H6f/0na3tXVbBCcVrypLdN2N2v13Y/c0E8flLY3/J20+vilH81edqrxWG15XFq9w/9nWrGVm5aNTjZ7+UV1Gj0wbbqxNotKK1Sq820nT3LzqNrUf3lY2vowzGmXT1b9WuuJyrCo93Ex7NTBTR9yL9U3jd7/WVp7pZJpXZd2nalS6Qr1x/qzcn+8hI49nkyrDsbY0mzg/rpl0TrB39UWxx577SjtWF1qlkoVm7ZVqVbtCtXWVdpE7fr0YGwWnVYsZYfH8qOqUM5JTFdphyKRwzFXqvi0E3XmFpXqonbmX9dvuksr/1TrtlGKT1tVqpkQQ/V/xy1ddJpWn2ymSHekrSrVR0iFynWZVhcSwwT3nrTiLPtbqo5fPT/oMq34lIN6aVequ9LqSiW5H7NEx2kdlUqmfZ2+tRlOBel2XpiefIPpNq24yIGdm81c8+S9vfe3ejv/jLfjtLpSNR/FXWmbjzp131WzxD+YrtPaKtW9aXWl6l0CBtN12mo6e1up7k4rRrLVMWAwnafVjyq3Ge68bvNfqko19w+m+7TiIke3rTeTafcjA89Rm6q9YlmFrPGmnaobwGQ4/0rMU3qXdlpxlKOrV6rI51s1uOIE0ZVq52vvTSu/nMghXr33tAZDWl2p3qptd80uDmnvnP+rKtV+5fmBN21aXDaDfDErza8Q+2KLmSFttTRYLRrelTYvUAv1n5xvMhWYNjuy2+ws/lxGT+5MaQ2V6p60V32CHAIrVWDa7NAWn3YBk9FbxrR6SVhXqjvSqss1X0b7o84W9xQjLO1GpRWnU+SFa06rK5VaNIxPqwMWpXisPjkrVeCxzc7grXNVwMqSVj++zMqP0Wk/GifvVX7c29esg9MW97TRZerqysyWVleqcp04Om1rChVSqQLTZne2omEaMGG5ZUsrZnJ0y+LSiE2rbzp6y0odbMcjfWja7DqZj/L+9r9z3YpGpYqcXegJRW2lP6BShafNh5TsPS8m2+xpdaXKz5e490D1BbiKXoqzPugGpE2zSrySs5RVL/8Yw5H2VKtUUWltt1ddqWxzKmvaz8UinyCfimObpKmc1Dpf1EWmrV6c7+LSNhbOK75KZUp7+JoWV0H+m3VxXf2oV8Nj39NmVFpdqfbiEJFWvRRpPwlu1NtaS6UypR3lr8myg9o7Jou0XGV4ytqcvxf5Oov/uSo8rfhSR2kVnlYvIxsmEj/qO/PfM6TNd9Cwemycqz1Q/xhO/n3brUVVKr3gYqWy6ReXM1N/ulIZFyrlhX2zLVme839211G63KqnsvVxmaaja/Sb7NPgkBlYn8X6pUnfR9353iXLFHGimL78W3YVmwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgMf5D+CTNGY7cUYoAAAAAElFTkSuQmCC",
       },
      
       {
@@ -81,7 +81,7 @@ export const skills = [
       {
         name: "Express Js",
         image:
-        "https://media.licdn.com/dms/image/v2/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686391647921?e=1741824000&v=beta&t=-gvmUxFTNDv-85M7BeyxizXxQnyPUyD-2Xltvs6w3Pk"
+        "https://externlabs.com/blogs/wp-content/uploads/2021/11/ExpressJS-Library.jpg"
       },
   
 
@@ -96,8 +96,53 @@ export const skills = [
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeY9JL2hQz-EKoPHG_HksoKlY9Eg9Orf9bCg&s",
       },
+
+      {
+        name: "RestAPI",
+        image:
+          "https://media.licdn.com/dms/image/v2/D4D12AQEeNNHq05k7MA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1687786979245?e=2147483647&v=beta&t=gatszJ18T6cgUmXRbQWWQhxNGjpH7RLqvLLGnDYJbYE",
+      },
+
+      {
+        name: "GraphQLAPI",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAt3c3IyQQ4ciJLsNIGKKouvF00KoDbXTAg&s",
+      },
+
+      {
+        name: "JWT Authentication",
+        image:
+          "https://ik.imagekit.io/ably/ghost/prod/2019/05/Screenshot-2019-05-14-at-13.53.46.png?tr=w-1728,q-50",
+      },
+
+      {
+        name: "Bcrypt",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQom27qT1ZJntrrH_bykfTYe34kxLcTnEdZsw&s",
+      },
+
+      {
+        name: "oAuth",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkMhYaH3Q0V73BeArMr_BeqdaJOecHTdgIg&s",
+      },
+
+      {
+        name: "Problem Solving",
+        image:
+          "https://lizkislik.com/wp-content/uploads/2015/11/problem-solving-tips-team.jpg",
+      },
+
+      {
+        name: "Database Optimization",
+        image:
+          "https://shalb.com/wp-content/uploads/2019/04/Database-Optimization-1.jpg",
+      },
       
+
     ],
+
+    
   },
 
   {
@@ -140,8 +185,8 @@ export const experiences = [
     img: "https://media.licdn.com/dms/image/v2/C4D0BAQG3G8GlNZvByw/company-logo_200_200/company-logo_200_200/0/1630453717890/coderatory_logo?e=1744243200&v=beta&t=_3fP03FDXiW9LblwuWKTwgleMOh1Ma6xYkxmU4mBMO8",
     role: "MERN Stack Intern",
     company: "Coderatory",
-    date: "June 2024 - Sep 2024",
-    desc: "I have extensive experience in designing and maintaining web applications using modern technologies like React.js, Next.js, Node.js, and Express.js, collaborating with teams to develop and deploy features while integrating RESTful APIs for optimal performance. At Coderatory, I contributed to enhancing backend efficiency by developing a match pooling algorithm for their product, Muntazim, and implemented a multiple file upload feature for Middlemen, enabling users to upload up to 10 files simultaneously and retrieve them by lead ID. Additionally, I revamped the entire Middlemen project using Next.js to enhance functionality and user experience. My expertise also includes LinkedIn profile scraping using Node.js and Puppeteer to streamline data extraction processes.",
+    date: "May 2024 - Sep 2024",
+    desc: "Developed RESTful APIs using Node.js and Express.js, optimizing performance and scalability. Designed and maintained web applications using React.js, Next.js, and Node.js. Implemented a match pooling algorithm for Muntazim, enhancing backend efficiency. Built a file upload and retrieval system using Multer, Node.js, and MongoDB, enabling users to upload and retrieve up to 10 files per lead ID. Integrated Puppeteer for LinkedIn scraping, automating lead data extraction. Collaborated on MongoDB schema design, optimizing queries for faster response times.",
     skills: [
       "ReactJS",
       "NextJS",
@@ -161,7 +206,7 @@ export const experiences = [
     role: "MERN Stack Intern ",
     company: "Turn Up Technologies",
     date: "nov 24 - feb 25",
-    desc: "I have extensive experience in designing and maintaining web applications using modern technologies like React JS, Next JS, Node JS, MongoDB and Expres JS, collaborating with teams to develop and deploy features while integrating RESTful APIs for optimal performance. At Turn Up Technologies, I contributed to enhancing backend efficiency by developing a Dashboard using dynamic routes for their product, The Trade Core. My expertise also includes AI chatbot in NextJS using Gemini Api.",
+    desc: "Developed an AI chatbot backend using Next.js, integrating the Gemini API. Implemented database caching strategies in MongoDB to optimize query performance. Designed authentication and session management for secure user access in The Trade Core product. Created backend endpoints to handle real-time AI-generated responses efficiently.",
     skills: [
       "ReactJS",
       "NextJS",
