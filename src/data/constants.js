@@ -10,7 +10,7 @@ import Question from "../images/Virtual.png";
 export const Bio = {
   name: "Shayan Ashraf",
   roles: [
-    "Full Stack Developer",
+    "Software Engineer",
     "Programmer",
   ],
   description:
@@ -20,7 +20,7 @@ export const Bio = {
   facebook: "https://www.facebook.com/itx.shayan.33",
   // instagram: "https://www.instagram.com/shayanashraf15",
   resume:
-    "https://drive.google.com/file/d/15EkBxpZ1rAUgdjSYGKThMCz-B3161nhT/view?usp=drive_link",
+    "https://drive.google.com/file/d/1BKF_0wDSOy8lEUbHrUt-tmmJnFF_kB5i/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/shayanashraf2",
 
 };
@@ -138,6 +138,18 @@ export const skills = [
         image:
           "https://shalb.com/wp-content/uploads/2019/04/Database-Optimization-1.jpg",
       },
+
+      {
+        name: "Swagger",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1mQcgSLaiDLjoEZFJdrvcibXq7EHpW2D3qA&s",
+      },
+
+      {
+        name: "Redis",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdxp0HsuAPKN8ehIniFqMHwaiII90EZcILBg&s",
+      },
       
 
     ],
@@ -217,6 +229,25 @@ export const experiences = [
       "MongoDB",
       "API Integration",
       "Shadcn UI"
+    ],
+  },
+
+  {
+    id: 4,
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQGFXdOQI7ypNA/company-logo_200_200/company-logo_200_200/0/1695638807285/turn_up_tech_logo?e=1744243200&v=beta&t=xO8i4p5Pn0ZAthFhwfXK9AXXL_YMD7DwFTX12LBM3nQ",
+    role: "Backend Developer ",
+    company: "ExPERRTS",
+    date: "april 25 - present",
+    desc: "I contributed as a Backend Developer to the EXPERTTS platform, a global knowledge-sharing marketplace that enables users to monetize their expertise. I designed and implemented over 10 RESTful APIs, including Apple Authentication, expert availability management, team permissions for organizations, and feedback systems for booked services.I integrated Redis for efficient caching and faster API responses, and utilized Swagger (OpenAPI) to document all APIs for improved collaboration with frontend teams and streamlined testing.",
+    skills: [
+      
+      "JavaScript",
+      "NodeJS",
+      "ExpressJS",
+      "MongoDB",
+      "Swagger",
+      "Redis"
+      
     ],
   },
 ];
@@ -318,6 +349,28 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Shayan757/Item-Management",
+    webapp: "https://github.com/Shayan757",
+  },
+
+  {
+    id: 13,
+    title: "Middleman",
+    description:
+      "A SaaS platform for real estate professionals to generate leads, manageclient relationships, and streamline property sales through powerful marketing and CRM tools.",
+
+    image: item,
+    tags: [
+      "Next JS",
+      "Tailwind CSS",
+      "Shadcn UI",
+      "Javascript",
+      "MongoDB",
+      "Express JS",
+      "Node JS",
+     
+    ],
+    category: "web app",
+    github: "https://github.com/aliwariss/Middlemen",
     webapp: "https://github.com/Shayan757",
   },
 
